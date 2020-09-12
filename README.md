@@ -82,7 +82,7 @@ Add below Permissions to your manifist.xml file -
                 //to get current connected wifi name
         
 ```
-If user has not aloowed the location permission for this app then it will ask everytime app try to connect to wifi for the location permission.
+If user has not allowed the location permission for this app then it will ask everytime app try to connect to wifi for the location permission.
 
 
 When you use connection on iOS (iOS 11 and above only)
